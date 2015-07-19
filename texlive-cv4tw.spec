@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-cv4tw
 Version:	0.1
-Release:	4
+Release:	5
 Summary:	LaTeX CV class, with extended details
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv4tw
