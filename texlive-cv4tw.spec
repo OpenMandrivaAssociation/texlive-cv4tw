@@ -1,12 +1,6 @@
-# revision 32719
-# category Package
-# catalog-ctan /macros/latex/contrib/cv4tw
-# catalog-date 2014-01-20 00:33:14 +0100
-# catalog-license other-free
-# catalog-version 0.1
 Name:		texlive-cv4tw
-Version:	0.1
-Release:	5
+Version:	0.2
+Release:	1
 Summary:	LaTeX CV class, with extended details
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv4tw
@@ -33,13 +27,8 @@ documentation, but a worked example offers some guidance.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw-scheme.sty
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw-theme-compact.sty
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw-theme-core.sty
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw-theme-sharp.sty
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw-theme-simple.sty
-%{_texmfdistdir}/tex/latex/cv4tw/cv4tw.cls
-%doc %{_texmfdistdir}/doc/latex/cv4tw/sample-jules-verne.pdf
+%{_texmfdistdir}/tex/latex/cv4tw
+%doc %{_texmfdistdir}/doc/latex/cv4tw
 
 #-----------------------------------------------------------------------
 %prep
