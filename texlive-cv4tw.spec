@@ -1,6 +1,6 @@
 Name:		texlive-cv4tw
 Version:	34577
-Release:	1
+Release:	2
 Summary:	LaTeX CV class, with extended details
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv4tw
