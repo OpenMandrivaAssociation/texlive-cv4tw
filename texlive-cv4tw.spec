@@ -3,7 +3,7 @@ Version:	34577
 Release:	2
 Summary:	LaTeX CV class, with extended details
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cv4tw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cv4tw
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cv4tw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cv4tw.doc.r%{version}.tar.xz
